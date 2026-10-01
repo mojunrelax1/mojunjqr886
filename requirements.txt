@@ -1,4 +1,0 @@
-aiogram==3.31.0
-asyncpg==0.30.0
-APScheduler==3.10.4
-aiohttp==3.10.10
